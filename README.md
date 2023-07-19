@@ -1,4 +1,4 @@
-# Design of BPSK and ASK Modulator and Demodulator
+# Design of BPSK and ASK Modulator and Demodulator with MatLab Simulink
 > EEE 310 - Communication Systems I Laboratory
 
 # Abstract
