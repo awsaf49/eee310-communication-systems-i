@@ -21,7 +21,7 @@ This project presents the implementation of Binary Phase Shift Keying (BPSK) mod
 ![image](https://github.com/awsaf49/eee310-communication-systems-i/assets/36858976/4188bd2e-d5a0-4b0b-95fe-026fc3001da0)
 
 
-## Amplitude Shift Keying (ASK)
+# Amplitude Shift Keying (ASK)
 
 ## Modulation
 ![image](https://github.com/awsaf49/eee310-communication-systems-i/assets/36858976/3fe4ce29-0559-4bb7-b0ba-08cc7594e9ab)
